@@ -5,7 +5,7 @@ description:        "An Aspiring Data Scientist, Traveller."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/my.jpg'
-background:         'assets/img/b1.jpg'
+background:         'assets/img/b1.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 #url:                https://prash16.github.io
