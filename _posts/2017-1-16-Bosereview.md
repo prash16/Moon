@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Review of Bose QC 25, my new headphones !!!
+description: Review for my Bose 
 ---
 
 
